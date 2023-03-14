@@ -1,5 +1,5 @@
 {
-  "name": "random-number-generator",
+  "name": "chandu-number-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chandra821/random-number-generator/issues"
   },
-  "homepage": "https://github.com/chandra821/random-number-generator#readme"
+  "homepage": "https://github.com/chandra821/random-number-generator#readme",
+  "publishConfig": {
+    "@chandu2541:registery":"https://npm.pkg.github.com"
+  }
 }
